@@ -2,7 +2,7 @@
 MakeUC 22 Hackathon Submission - Saaras Pakanati
 
 ## Introduction
-The code was created for submitting to the MakeUC 22 Hackathon. It prompts the user to provide an image of any FDA Drug Label and reads the information provided on it. Its current functionality looks for a few key words and expiry data. Based on that information, it makes a google calander to throw away the medication.
+The code was created for submitting to the MakeUC 22 Hackathon. It prompts the user to provide an image of any FDA Drug Label and reads the information provided on it. Its current functionality looks for a few key words and expiry data. Based on that information, it makes a google calander to throw away the medication when it expires and provides info on the side effects and how to mitigate those.
 
 ## Software and languages used
 The base code has been coded on Python along with the use of the following libraries and services:
